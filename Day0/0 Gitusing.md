@@ -12,6 +12,6 @@
 
 文档版
 
-[Git.pdf](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Day1/git.pdf)  #Win7环境 #
+[Git.pdf](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Day0/git.pdf)  #Win7环境 #
 
-[两小时学会Git玩转Github.doc](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Day1/两小时学会Git玩转Github.doc) #Windows环境。但是讲了原理的知识#
+[两小时学会Git玩转Github.pdf](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Day0/两小时学会Git玩转Github.pdf) #Windows环境。但是讲了原理的知识#
