@@ -39,3 +39,73 @@
 - **数据规整（Munge/Munging/Wrangling**）指的是将非结构化和（或）散乱数据处理为结构化或整洁形式的整个过程。这几个词已经悄悄成为当今数据黑客们的行话了。Munge这个词跟Lunge押韵。
 - **伪码（Pseudocode**）算法或过程的“代码式”描述，而这些代码本身并不是实际有效的源代码。
 - **语法糖（Syntactic sugar**）这是一种编程语法，它并不会带来新的特性，但却能使代码更易读、更易写。
+
+# 第2章 Python语法基础，IPython和JupyterNotebooks
+## Tips
+> 在变量前后使用问号```？```，可以显示对象的信息
+```python
+In [8]: b = [1, 2, 3]
+In [9]: b?
+Type: list32
+```
+> ？可以作为对象的自省。如果对象是一个函数或实例方法，定义过的文档字符串，也会显示出信息。假设我们写了一个如下的函数：
+```python
+def add_numbers(a, b):   
+    """
+    Add two numbers together    
+    Returns    
+    -------    
+    the_sum : type of arguments    
+    """    
+    return a + b
+```
+> 然后使用?符号，就可以显示如下的文档字符串：
+```python
+In [11]: add_numbers?
+Signature: add_numbers(a, b)
+Docstring:
+Add two numbers together
+Returns
+-------
+the_sum : type of arguments
+File:      <ipython-input-9-6a548a216e27>
+Type:      function
+```
+> 使用??会显示函数的源码：
+
+
+> ?还有一个用途，就是像Unix或Windows命令行一样搜索IPython的命名空间。字符与通配符结合可以匹配所有的名字。例如，我们可以获得所有包含load的顶级NumPy命名空间：
+
+> 从剪贴板执行程序最简单的方法是使用```%paste```和```%cpaste```函数。```%paste```可以直接运行剪贴板中的代码：使用```%cpaste```，你可以粘贴任意多的代码再运行。你可能想在运行前，先看看代码。如果粘贴了错误的代码，可以用Ctrl-C中断。
+## 魔术命令
+IPython中特殊的命令（Python中没有）被称作“魔术”命令。这些命令可以使普通任务更便捷，更容易控制IPython系统。魔术命令是在指令前添加百分号%前缀。
+
+> 魔术函数默认可以不用百分号，只要没有变量和函数名相同。这个特点被称为“自动魔术”，可以用```%automagic```打开或关闭
+
+> 一些魔术函数与Python函数很像，它的结果可以赋值给一个变量：
+```python
+In [22]: %pwd
+Out[22]: '/home/wesm/code/pydata-book
+In [23]: foo = %pwd
+In [24]: foo
+Out[24]: '/home/wesm/code/pydata-book'
+```
+> IPython的文档可以在shell中打开，我建议你用%quickref或%magic学习下所有特殊命令
+
+**常用的指令**
+
+|命令|说明|
+|---|---|
+|```%quickref```|显示Python的快速参考|
+|```%magic```|显示所有魔术命令的详细文档|
+|```%debug```|再出现异常的语句进入调试模式|
+|```%hist```|打印命令的输入（可以选择输出）历史|
+|```%pdb```|出现异常时自动进入调试|
+|```%paste```|执行剪贴板中的代码|
+|```%cpaste```|开启特别提示，手动粘贴待执行的代码|
+|```%reset```|删除所有命名空间的变量和名字|
+|```%time statement```|报告单条语句执行的时间|
+|```%who，%who_is，%whos```|显示命名空间中的变量，三者显示的信息级别不同|
+|```%xdel variable```|删除一个变量，并清空任何对他的引用|
+
+
