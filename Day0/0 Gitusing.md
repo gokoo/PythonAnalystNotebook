@@ -1,4 +1,4 @@
-# Day1
+# Day0
 
 ## 任务目标 ：学习使用Git上传文件至GitHub，Jupyter Notebook基础环境搭建
 

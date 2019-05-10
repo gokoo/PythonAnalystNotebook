@@ -1,8 +1,12 @@
 # Python Data Analyst Notebook
 DataWhale Python data analyst junior study notebook, bese on 《Python for data analysis 2》
 ***
+## DatawhaleTasks
 ### [0.0 Git的使用(GitUsing)](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Day0/0%20Gitusing.md)
 
+***
+## 学习笔记
+第一章 准备工作
 
 ***
 ### [Addition Notes](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/additionNotes.md)
