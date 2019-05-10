@@ -10,9 +10,9 @@ DataWhale Python data analyst junior study notebook, bese on 《Python for data 
 - [1.3 重要的Python库](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#13-重要的python库)
 - [行话](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#行话)
   
-[第2章 Python语法基础，IPython和JupyterNotebooks]()
-- [Tips]()
-- [魔术指令]()
+[第2章 Python语法基础，IPython和JupyterNotebooks](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#第2章-python语法基础ipython和jupyternotebooks)
+- [Tips](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#tips)
+- [魔术指令](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#魔术命令)
 
 
 ***
