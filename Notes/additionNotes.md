@@ -1,4 +1,4 @@
-# 自主学习笔记
+# 学习笔记
 
 ## **Anaconda的安装集成jupyter notebook**
 
