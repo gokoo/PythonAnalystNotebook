@@ -6,7 +6,9 @@ DataWhale Python data analyst junior study notebook, bese on 《Python for data 
 
 ***
 ## 学习笔记
-第一章 准备工作
+[第一章 准备工作](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#第一章-准备工作)
+- [1.3 重要的Python库](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#13-重要的python库)
+- [行话](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#行话)
 
 ***
 ### [Addition Notes](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/additionNotes.md)
