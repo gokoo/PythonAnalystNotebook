@@ -114,7 +114,7 @@ Out[24]: '/home/wesm/code/pydata-book'
 ## 3.3 文件和操作系统
 ## 3.4 结论
 
-# 第四章 NumPy基础：数组和矢量计算 [Chaper4.ipynb]()
+# 第四章 NumPy基础：数组和矢量计算 [Chaper4.ipynb](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Chapter4.ipynb)
 > Day2 task
 @所有人
 【数据分析组队学习Task 1(2天)】
