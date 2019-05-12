@@ -108,4 +108,30 @@ Out[24]: '/home/wesm/code/pydata-book'
 |```%who，%who_is，%whos```|显示命名空间中的变量，三者显示的信息级别不同|
 |```%xdel variable```|删除一个变量，并清空任何对他的引用|
 
+# 第三章 Python的数据结构、函数和文件
+## 3.1 数据结构和序列
+## 3.2 函数
+## 3.3 文件和操作系统
+## 3.4 结论
 
+# 第四章 NumPy基础：数组和矢量计算 [Chaper4.ipynb]()
+> Day2 task
+@所有人
+【数据分析组队学习Task 1(2天)】
+1. 完成 “Python for Data Analysis(第二版)” 书中第 4 章内容的学习，代码实现的过程上传到 GitHub；
+2. 相关参考作业(作为考核指标之一)
+    - [ 科赛之 Numpy 练习 (这100道题，带你玩转Numpy)](https://www.kesci.com/home/project/59f29f67c5f3f5119527a2cc)
+    -  [Numpy基础学习1](https://blog.csdn.net/Crafts_Neo/article/details/90115742?utm_source=blog_wap_share)
+## 4.1 NumPy的ndarray：一种多维数组对象
+> 笔记：在本章及全书中，我会使用标准的NumPy惯用法```import numpy as np```。你当然也可以在代码中使用```from numpy import ```，但**不建议这么做**。numpy的命名空间很大，包含许多函数，其中一些的名字与Python的内置函数重名（比如min和max）。
+
+> 笔记：当你在本书中看到“数组”、“NumPy数组”、"ndarray"时，基本上都指的是同一样东⻄，即ndarray对象。
+
+> 注意：认为np.empty会返回全0数组的想法是不安全的。很多情况下（如前所示），它返回的都是一些未初始化的垃圾值。
+## 4.2 通用函数：快速的元素级数组函数
+## 4.3 利用数组进行数据处理
+## 4.4 用于数组的文件输入输出
+## 4.5 线性代数
+## 4.6 伪随机数生成
+## 4.7 示例：随机漫步
+## 4.8 结论
