@@ -22,7 +22,7 @@ DataWhale Python data analyst junior study notebook, bese on 《Python for data 
 - 3.3 文件和操作系统
 - 3.4 结论
 
-[**第四章 NumPy基础：数组和矢量计算**]()
+[**第四章 NumPy基础：数组和矢量计算**](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#第四章-numpy基础数组和矢量计算-chaper4ipynb)
 
 [Chaper4.ipynb]()
 - 4.1 NumPy的ndarray：一种多维数组对象
