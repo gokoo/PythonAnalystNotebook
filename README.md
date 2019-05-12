@@ -24,7 +24,7 @@ DataWhale Python data analyst junior study notebook, bese on 《Python for data 
 
 [**第四章 NumPy基础：数组和矢量计算**](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#第四章-numpy基础数组和矢量计算-chaper4ipynb)
 
-[Chaper4.ipynb]()
+[Chaper4.ipynb](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Chapter4.ipynb)
 - 4.1 NumPy的ndarray：一种多维数组对象
 - 4.2 通用函数：快速的元素级数组函数
 - 4.3 利用数组进行数据处理
