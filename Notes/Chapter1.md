@@ -129,7 +129,9 @@ Out[24]: '/home/wesm/code/pydata-book'
 
 > 注意：认为np.empty会返回全0数组的想法是不安全的。很多情况下（如前所示），它返回的都是一些未初始化的垃圾值。
 
-> 由于NumPy关注的是数值计算，因此，如果没有特别指定，数据类型基本都是float64（浮点数）。~~插图~~
+> 由于NumPy关注的是数值计算，因此，如果没有特别指定，数据类型基本都是float64（浮点数）。
+
+![](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Imgs/4.1.1pic.png)
 
 > 使用numpy.string_类型时，一定要小心，**因为NumPy的字符串数据是大小固定的，发生截取时，不会发出警告**。pandas提供了更多非数值数据的便利的处理方法。
 
@@ -161,6 +163,9 @@ Out[134]: array([[[ 0,  1,  2,  3],
 
 > 许多ufunc都是简单的元素级变体，如```sqrt```和```exp``` ~~**(这俩函数是干啥的？？下面配图有)**~~
 
+![](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Imgs/4.2.1pic.png)
+
+![](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Imgs/4.2.2pic.png)
 
 ## 4.3 利用数组进行数据处理
 ## 4.4 用于数组的文件输入输出
