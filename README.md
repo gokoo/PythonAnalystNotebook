@@ -34,6 +34,25 @@ DataWhale Python data analyst junior study notebook, bese on 《Python for data 
 - 4.7 示例：随机漫步
 - 4.8 结论
 
+
+[**第五章 pandas入门**]()
+
+[Chapter5.ipynb]()
+
+- 5.1 pandas的数据结构介绍
+- 5.2 基本功能
+- 5.3 汇总和计算描述统计
+- 5.4 总结
+  
+[**第六章 数据加载、存储与文件格式**]()
+
+[Chapter6.ipynb]()
+- 6.1 读写文本格式的数据
+- 6.2 二进制数据格式
+- 6.3 Web APIs交互
+- API联系读取vvt分割数据翻译[translate.ipynb]()
+- 6.4 数据库交互
+- 6.5 总结
 ***
 ### [Addition Notes](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/additionNotes.md)
 
