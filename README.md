@@ -53,6 +53,22 @@ DataWhale Python data analyst junior study notebook, bese on 《Python for data 
 - API练习读取vvt分割数据翻译[translate.ipynb]()
 - 6.4 数据库交互
 - 6.5 总结
+
+[**第七章 数据清洗和准备**](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#第一章-准备工作)
+
+[Chapter7.ipynb](https://github.com/gokoo/PythonAnalystNotebook/blob/master/translate.ipynb)
+- 7.1 处理缺失数据
+- 7.2 数据转换
+- 7.3 字符串操作
+- 7.4 总结
+
+[**第八章 数据规整：聚合、合并和重塑**](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/Chapter1.md#第一章-准备工作)
+
+[Chapter8.ipynb](https://github.com/gokoo/PythonAnalystNotebook/blob/master/translate.ipynb)
+- 8.1 层次化索引
+- 8.2 合并数据集
+- 8.3 重塑和轴向旋转
+- 8.3 总结
 ***
 ### [Addition Notes](https://github.com/gokoo/PythonAnalystNotebook/blob/master/Notes/additionNotes.md)
 
